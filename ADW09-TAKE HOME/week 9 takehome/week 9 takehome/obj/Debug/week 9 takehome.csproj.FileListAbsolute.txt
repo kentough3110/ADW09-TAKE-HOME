@@ -1,0 +1,49 @@
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\MySql.Data.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\Google.Protobuf.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\ZstdNet.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\BouncyCastle.Crypto.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\Ubiety.Dns.Core.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\System.Buffers.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\K4os.Compression.LZ4.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\K4os.Hash.xxHash.dll
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\bin\Debug\MySql.Data.xml
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.SuggestedBindingRedirects.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.Form1.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.CopyComplete
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.Player_Data.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.ShowMatch.resources
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.exe.config
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.exe
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\week 9 takehome.pdb
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\Google.Protobuf.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\ZstdNet.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\System.Buffers.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\bin\Debug\MySql.Data.xml
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.AssemblyReference.cache
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.SuggestedBindingRedirects.cache
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.exe.config
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.Form1.resources
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week_9_takehome.Properties.Resources.resources
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.GenerateResource.cache
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.CoreCompileInputs.cache
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.csproj.CopyComplete
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.exe
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\week 9 takehome.pdb
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\ADW09_TAKE_HOME.Form2.resources
+C:\Users\KENT LEE\Documents\THA_W8_VALENCIA_C\week 9 takehome\week 9 takehome\obj\Debug\ADW09_TAKE_HOME.Form3.resources
